@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px;
+}
+
+.links a {
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+}
+
+.links a:hover {
+    color: lightsteelblue;
+}
